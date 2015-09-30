@@ -68,7 +68,7 @@
             "summary": 
 			{
                 "overviewName": "OVERVIEW",
-                "_overviewComment": "This tutorial demonstrates graphically accessing the Global Cache. It shows the use of a Mapping node to replace an abbreviated value in a message with an associated full name from a Lookup table that is held in the Global Cache. Another Mapping node shows the loading of the Lookup table.",
+                "_overviewComment": "This tutorial demonstrates accessing the Global Cache. It shows the use of a Mapping node to replace an abbreviated value in a message with an associated full name from a Lookup table that is held in the Global Cache. Another Mapping node shows the loading of the Lookup table.",
                 "sections": 
 				[
                     {
